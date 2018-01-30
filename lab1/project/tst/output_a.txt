@@ -1,0 +1,37 @@
+Initial balance, dude The actions, dude:
+d: deposit money, dude
+w: withdraw money, dude
+g: get balence, dude
+s: show transations, dude
+q: quit, dude
+========================================
+Whatcha want, dude how much money, dude balance, dude 6000.000000
+deposited money, dude
+The actions, dude:
+d: deposit money, dude
+w: withdraw money, dude
+g: get balence, dude
+s: show transations, dude
+q: quit, dude
+========================================
+Whatcha want, dude how much money, dude balance, dude 3000.000000
+withdrew money, dude
+The actions, dude:
+d: deposit money, dude
+w: withdraw money, dude
+g: get balence, dude
+s: show transations, dude
+q: quit, dude
+========================================
+Whatcha want, dude last deposit, dude 5000.000000
+last withdrawl, dude 3000.000000
+balance, dude 3000.000000
+showed transactions, dude
+The actions, dude:
+d: deposit money, dude
+w: withdraw money, dude
+g: get balence, dude
+s: show transations, dude
+q: quit, dude
+========================================
+Whatcha want, dude ok bye, dude
