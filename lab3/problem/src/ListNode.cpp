@@ -5,7 +5,7 @@
 ListNode::ListNode(int num) :
     data(num),
     next(nullptr) {
-    
+
     }
 
 ListNode::ListNode(const ListNode& other) :
@@ -24,15 +24,10 @@ ListNode* ListNode::get_next() const {
     return this->next;
 }
 
-void ListNode::set_next(ListNode* ptr) { 
+void ListNode::set_next(ListNode* ptr) {
     this->next = ptr;
 }
 
 void ListNode::set_data(int num) {
     this->data = num;
 }
-
-
-
-
-

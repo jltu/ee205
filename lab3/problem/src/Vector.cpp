@@ -2,7 +2,7 @@
 #include <utility>
 
 //Default Constructor
-Vector::Vector(){
+Vector::Vector():
 	arr(new int[1]),
 	length(0),
 	capacity(1)	{}
